@@ -1,3 +1,3 @@
-# ICE CREAM SALES
+##### ICE CREAM SALES
 
 Exploratory data analysis and sales prediction.
